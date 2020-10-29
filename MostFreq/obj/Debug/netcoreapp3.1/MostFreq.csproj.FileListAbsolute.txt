@@ -1,0 +1,13 @@
+C:\Users\monisha.khapali\source\repos\MostFreq\MostFreq\bin\Debug\netcoreapp3.1\MostFreq.exe
+C:\Users\monisha.khapali\source\repos\MostFreq\MostFreq\bin\Debug\netcoreapp3.1\MostFreq.deps.json
+C:\Users\monisha.khapali\source\repos\MostFreq\MostFreq\bin\Debug\netcoreapp3.1\MostFreq.runtimeconfig.json
+C:\Users\monisha.khapali\source\repos\MostFreq\MostFreq\bin\Debug\netcoreapp3.1\MostFreq.runtimeconfig.dev.json
+C:\Users\monisha.khapali\source\repos\MostFreq\MostFreq\bin\Debug\netcoreapp3.1\MostFreq.dll
+C:\Users\monisha.khapali\source\repos\MostFreq\MostFreq\bin\Debug\netcoreapp3.1\MostFreq.pdb
+C:\Users\monisha.khapali\source\repos\MostFreq\MostFreq\obj\Debug\netcoreapp3.1\MostFreq.csprojAssemblyReference.cache
+C:\Users\monisha.khapali\source\repos\MostFreq\MostFreq\obj\Debug\netcoreapp3.1\MostFreq.AssemblyInfoInputs.cache
+C:\Users\monisha.khapali\source\repos\MostFreq\MostFreq\obj\Debug\netcoreapp3.1\MostFreq.AssemblyInfo.cs
+C:\Users\monisha.khapali\source\repos\MostFreq\MostFreq\obj\Debug\netcoreapp3.1\MostFreq.dll
+C:\Users\monisha.khapali\source\repos\MostFreq\MostFreq\obj\Debug\netcoreapp3.1\MostFreq.pdb
+C:\Users\monisha.khapali\source\repos\MostFreq\MostFreq\obj\Debug\netcoreapp3.1\MostFreq.csproj.CoreCompileInputs.cache
+C:\Users\monisha.khapali\source\repos\MostFreq\MostFreq\obj\Debug\netcoreapp3.1\MostFreq.genruntimeconfig.cache
